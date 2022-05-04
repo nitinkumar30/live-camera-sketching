@@ -5,7 +5,7 @@
 
 # Demo
 
-![live-sketching_new](https://user-images.githubusercontent.com/40369168/166727942-a67ce4ba-7b1e-4afb-bf51-fbbd21715d83.gif)
+![live-sketching-mew (1)](https://user-images.githubusercontent.com/40369168/166735676-a73c1bd9-d1d5-467d-837d-7a4649b19a6a.gif)
 
 
 # How to use
